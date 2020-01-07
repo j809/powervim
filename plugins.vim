@@ -47,4 +47,7 @@ Plug 'flazz/vim-colorschemes'
 " for devicons (used by nerdtree)
 Plug 'ryanoasis/vim-devicons'
 
+" vim search-index
+Plug 'google/vim-searchindex'
+
 call plug#end()
